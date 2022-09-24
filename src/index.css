@@ -42,6 +42,15 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: 'Noto Sans';
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+}
+
 li {
   list-style: none;
 }
@@ -58,6 +67,6 @@ a {
   text-align: center;
 }
 
-body {
-  font-family: 'Noto Sans';
+.c-pointer {
+  cursor: pointer;
 }
