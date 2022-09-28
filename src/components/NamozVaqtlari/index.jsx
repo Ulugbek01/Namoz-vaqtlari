@@ -74,6 +74,7 @@ const NamozVaqtlari = () => {
                 </tbody>
             </table>
         </TableWrapper>
+      <p className='to-center' style={{color: 'rgba(0,0,0,0.4)', marginTop: '20px'}}>Ma'lumotlar <a href="https://islom.uz" style={{color: '#1CC465'}} target={'_blank'} rel="noreferrer">Islom.uz</a> portalidan olindi.</p>  
     </Container>
   )
 }

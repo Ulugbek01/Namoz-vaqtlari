@@ -16,4 +16,9 @@ export const NavbarSection = styled.nav`
             line-height: 26px;
         }
     }
+
+    .active {
+        padding: 6px 12px;
+        background-color: #1CC465;
+    }
 `;

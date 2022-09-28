@@ -6,7 +6,7 @@ export const navbar = [
     {
         id: 1,
         title: 'Namoz haqida',
-        path: '/',
+        path: '/namoz-haqida',
         Element: <NamozHaqidaPage/>,
         private: false,
     },
