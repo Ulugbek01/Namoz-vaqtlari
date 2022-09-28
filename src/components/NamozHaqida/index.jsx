@@ -3,7 +3,7 @@ import Container from '../../Layout/Container';
 
 const NamozHaqida = () => {
   return (
-    <Container>NamozHaqida</Container>
+    <Container>Coming Soon</Container>
   )
 }
 
